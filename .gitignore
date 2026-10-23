@@ -1,0 +1,9 @@
+/target/
+
+# Archivos del laboratorio anterior: se conservan localmente.
+*.blend
+*.blend1
+*.py
+/entrega_nave.zip
+/vista_previa.png
+/LEEME.md

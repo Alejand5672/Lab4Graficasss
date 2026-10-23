@@ -1,0 +1,8 @@
+[package]
+name = "lab_nave"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+raylib = "5.5"
+image = { version = "0.25", default-features = false, features = ["png"] }
