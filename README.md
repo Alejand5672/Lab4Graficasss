@@ -1,4 +1,6 @@
-# Lab 4: renderizado de una nave OBJ en Rust
+# Luis Hernández Márquez (241424)
+# Prof. Pablo Koch
+# Lab 4: renderizado de una nave OBJ en Rust 
 
 Carga `nave.obj`, creado en el laboratorio anterior, y dibuja sus triángulos
 con un rasterizador propio. El modelo queda centrado y ajustado al 80% del
@@ -38,9 +40,3 @@ Raylib se utiliza para mostrar la imagen; los triángulos se dibujan en CPU.
 No se utiliza un cargador de modelos ni el renderizador 3D de Raylib.
 El OBJ debe estar triangulado, como el archivo incluido. No se cargan materiales
 ni texturas, ya que no son necesarios para este ejercicio.
-
-## Entrega
-
-Subir el código Rust, `Cargo.toml`, `Cargo.lock`, `nave.obj`, `render.png` y este
-README al repositorio Git. Entregar el enlace del repositorio y `render.png`.
-Los archivos anteriores de Blender se conservan en esta carpeta.
